@@ -1,4 +1,6 @@
-### Hi there 👋
+### Technology makes everything become possible and I want to make technology become real. 
+
+### Objectives oriented. Always focused solution but also notice details in process.
 
 <!--
 **timoyan/timoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
