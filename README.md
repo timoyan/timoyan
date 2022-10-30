@@ -2,6 +2,8 @@
 
 ### Objectives oriented. Always focus on solution but also notice details in process.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timoyan)](https://github.com/timoyan/github-readme-stats)
+
 <!--
 **timoyan/timoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
